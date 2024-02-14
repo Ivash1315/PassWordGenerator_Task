@@ -15,4 +15,11 @@ ensuring that it adapts to multiple screen sizes.
 
    
 ### The image below shows the application appearance and functionality.
-#### This site was built using [Github pages](...)
+
+
+
+
+
+![pwdgenerator](https://github.com/Ivash1315/PassWordGenerator_Task/assets/98929108/b42dd640-e745-49ab-9728-486305e8943c)
+
+#### This site was built using [Github pages](https://ivash1315.github.io/PassWordGenerator_Task/)
